@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "removeComments": true,
+    "esModuleInterop": true, // dùng từ khóa import thay cho require
+    "outDir": "dist"
+  },
+}
